@@ -1,3 +1,1 @@
-var app = function(){
-  console.log("Hello");
-}
+let app = (a) => console.log(a);
